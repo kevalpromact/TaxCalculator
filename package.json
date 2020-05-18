@@ -1,0 +1,11 @@
+{
+  "name": "taxcalculator",
+  "version": "1.0.0",
+  "description": "The application will take user's information and calculate user's tax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keval",
+  "license": "ISC"
+}
